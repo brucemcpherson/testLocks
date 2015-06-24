@@ -4,6 +4,8 @@
 function myTest () {
   
   var prop = PropertiesService.getScriptProperties();
+  prop.deleteAllProperties();
+  
   var cache = CacheService.getScriptCache();
   
   Logger.log('properties testing starting at ' + new Date().getTime());
@@ -61,6 +63,9 @@ function testStuff (funcPut, funcGet) {
       }
       else if (!result) {
         Logger.log('null:got nothing expected ' + text);
+      }
+      else {
+        //Logger.log('good:' + result);
       }
       attempts ++;
     }
