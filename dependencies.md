@@ -1,5 +1,5 @@
 # Google Apps Script Project: testLocks
-This repo (testLocks) was automatically updated on 28 September 2015 17:42:20 BST by GasGit
+This repo (testLocks) was automatically updated on 27 July 2016 10:34:00 BST by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project testLocks
@@ -16,16 +16,16 @@ howmuch| server_js
 ### Directly referenced libraries
 *library*|*identifier*|*key*|*version*|*dev mode*|*source*|
 --- | --- | --- | --- | --- | --- 
-cNamedLock| cNamedLock|Mpv7vUR0126U53sfSMXsAPai_d-phDA33|14|no|[here](libraries/cNamedLock "library source")
+bucket| bucket|MavNqaETYX7lXnFgbTmOaAqi_d-phDA33|33|no|no
 cUseful| cUseful|Mcbr-v4SsYKJP7JMohttAZyz3TLx7pV4j|25|no|[here](libraries/cUseful "library source")
-bucket| bucket|MavNqaETYX7lXnFgbTmOaAqi_d-phDA33|1|yes|no
+cNamedLock| cNamedLock|Mpv7vUR0126U53sfSMXsAPai_d-phDA33|14|no|[here](libraries/cNamedLock "library source")
 ### All dependencies and sub dependencies
 *library*|*identifier*|*key*|*version*|*dev mode*|*source*|
 --- | --- | --- | --- | --- | --- 
+bucket| bucket|MavNqaETYX7lXnFgbTmOaAqi_d-phDA33|33|no|no
+cUseful| cUseful|Mcbr-v4SsYKJP7JMohttAZyz3TLx7pV4j|25|no|[here](libraries/cUseful "library source")
 cNamedLock| cNamedLock|Mpv7vUR0126U53sfSMXsAPai_d-phDA33|14|no|[here](libraries/cNamedLock "library source")
 cCacheHandler| cCacheHandler|M3reA5eBxtwxSqCEgPywb9ai_d-phDA33|15|no|[here](libraries/cCacheHandler "library source")
-cUseful| cUseful|Mcbr-v4SsYKJP7JMohttAZyz3TLx7pV4j|25|no|[here](libraries/cUseful "library source")
-bucket| bucket|MavNqaETYX7lXnFgbTmOaAqi_d-phDA33|1|yes|no
 ### Enabled Google Services
 no libraries discovered
 ###Need more detail ?
