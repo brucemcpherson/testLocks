@@ -1,0 +1,20 @@
+{
+  "timeZone": "Europe/London",
+  "dependencies": {
+    "libraries": [{
+      "userSymbol": "bucket",
+      "libraryId": "17B4lbAwYGooIpK7i06ukNYZ1AO82cykhMkxTXpKoa3eLLYQuuMvd1_q3",
+      "version": "1",
+      "developmentMode": true
+    }, {
+      "userSymbol": "cNamedLock",
+      "libraryId": "1uNcsHIUpZOJIT_ZedTa2mBE_gqCo0mH5OrNJMk4NWdyCNHQfiQjYXZ6u",
+      "version": "14"
+    }, {
+      "userSymbol": "cUseful",
+      "libraryId": "1EbLSESpiGkI3PYmJqWh3-rmLkYKAtCNPi1L2YCtMgo2Ut8xMThfJ41Ex",
+      "version": "25"
+    }]
+  },
+  "exceptionLogging": "STACKDRIVER"
+}
