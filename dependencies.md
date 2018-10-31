@@ -1,5 +1,5 @@
 # Google Apps Script Project: testLocks
-This repo (testLocks) was automatically updated on 27 July 2016 10:34:00 BST by GasGit
+This repo (testLocks) was automatically updated on 31 October 2018 11:36:35 GMT by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project testLocks
@@ -13,20 +13,23 @@ Code| server_js
 testprops| server_js
 cc| server_js
 howmuch| server_js
+appsscript| json
 ### Directly referenced libraries
 *library*|*identifier*|*key*|*version*|*dev mode*|*source*|
 --- | --- | --- | --- | --- | --- 
-bucket| bucket|MavNqaETYX7lXnFgbTmOaAqi_d-phDA33|33|no|no
-cUseful| cUseful|Mcbr-v4SsYKJP7JMohttAZyz3TLx7pV4j|25|no|[here](libraries/cUseful "library source")
-cNamedLock| cNamedLock|Mpv7vUR0126U53sfSMXsAPai_d-phDA33|14|no|[here](libraries/cNamedLock "library source")
+bucket| bucket|17B4lbAwYGooIpK7i06ukNYZ1AO82cykhMkxTXpKoa3eLLYQuuMvd1_q3|1|no|no
+cNamedLock| cNamedLock|1uNcsHIUpZOJIT_ZedTa2mBE_gqCo0mH5OrNJMk4NWdyCNHQfiQjYXZ6u|14|no|[here](libraries/cNamedLock "library source")
+cUseful| cUseful|1EbLSESpiGkI3PYmJqWh3-rmLkYKAtCNPi1L2YCtMgo2Ut8xMThfJ41Ex|25|no|[here](libraries/cUseful "library source")
 ### All dependencies and sub dependencies
 *library*|*identifier*|*key*|*version*|*dev mode*|*source*|
 --- | --- | --- | --- | --- | --- 
-bucket| bucket|MavNqaETYX7lXnFgbTmOaAqi_d-phDA33|33|no|no
-cUseful| cUseful|Mcbr-v4SsYKJP7JMohttAZyz3TLx7pV4j|25|no|[here](libraries/cUseful "library source")
-cNamedLock| cNamedLock|Mpv7vUR0126U53sfSMXsAPai_d-phDA33|14|no|[here](libraries/cNamedLock "library source")
-cCacheHandler| cCacheHandler|M3reA5eBxtwxSqCEgPywb9ai_d-phDA33|15|no|[here](libraries/cCacheHandler "library source")
+bucket| bucket|17B4lbAwYGooIpK7i06ukNYZ1AO82cykhMkxTXpKoa3eLLYQuuMvd1_q3|1|no|no
+cNamedLock| cNamedLock|1uNcsHIUpZOJIT_ZedTa2mBE_gqCo0mH5OrNJMk4NWdyCNHQfiQjYXZ6u|14|no|[here](libraries/cNamedLock "library source")
+cCacheHandler| cCacheHandler|1U6j9t_3ONTbhTCvhjwANMcEXeHXr4shgzTG0ZrRnDYLcFl3_IH2b2eAY|15|no|[here](libraries/cCacheHandler "library source")
+cUseful| cUseful|1EbLSESpiGkI3PYmJqWh3-rmLkYKAtCNPi1L2YCtMgo2Ut8xMThfJ41Ex|32|no|[here](libraries/cUseful "library source")
 ### Enabled Google Services
 no libraries discovered
-###Need more detail ?
+### Scopes required
+no scopes discovered
+### Need more detail ?
 You can see [full project info as json here](info.json)
